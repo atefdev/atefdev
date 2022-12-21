@@ -2,7 +2,7 @@
 - 👀 I’m interested Cloud Computing, New Technologies
 - 🌱 I’m currently learning AWS infrastructure
 - 💞️ I’m looking to collaborate on more Open Source Projects
-- 📫 [My Resume](https://github.com/atefnazmy/My-Resume/blob/main/My-Resume.pdf)
+- 📫 [My Resume](https://github.com/atefdev/My-Resume/blob/main/My_Resume.pdf)
 
 <!---
 atefdev/atefdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
